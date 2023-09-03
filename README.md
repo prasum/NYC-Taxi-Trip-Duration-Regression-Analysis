@@ -1,6 +1,6 @@
 # NYC-Taxi-Trip-Duration-Regression-Analysis
 
-### Performing EDA on NYC Taxi Trip Duration and using preprocessed dataset to build regression models and verify the assumptions associated with it.
+### Performing EDA on NYC Taxi Trip Duration and using preprocessed dataset to build regression model pipelines to predict taxi trip duration and verify the assumptions associated with it.
 
 #### The below steps are used for creating the ML pipeline
 
