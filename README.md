@@ -4,7 +4,7 @@
 
 #### The below steps are used for creating the ML pipeline
 
-- Splitting Train dataset into with outliers and without outliers and building two mode pipelines in the next steps.
+- Splitting Train dataset into with outliers and without outliers and building two model pipelines in the next steps.
 
 - Transformations on predictors and target after analyzing and visualizing their distribution and properties.
 
