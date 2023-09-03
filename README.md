@@ -12,3 +12,5 @@
 - Creating a sklearn model pipeline for the above steps
 - Using Elastic Net Polynomial Regression and using OPTUNA library for hyperparameter tuning
 - Verifying the assumptions of Linear Regression for the trained models
+
+For EDA, refer to https://github.com/prasum/NYC_Taxi_Trip_Duration_EDA
